@@ -10,6 +10,7 @@ function tocaSom (seletorAudio) {
         //alert ('Elemento não encontrado!');
         console.log('Elemento não encontrado ou setor inválido!');
         //só para testar as alterações
+        //novo teste
     }
 }
 
